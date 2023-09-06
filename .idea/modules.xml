@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShieldElevationSampleApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ShieldElevationSampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShieldElevationSampleApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
